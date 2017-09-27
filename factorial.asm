@@ -1,3 +1,5 @@
+# Print the factorials of the first five natural numbers.
+
 .data
     fact_message: .asciiz " factorial is: "
     nextline: .asciiz "\n"

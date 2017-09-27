@@ -1,3 +1,5 @@
+# Find the maximum value in an array.
+
 .data
 array: .word 8, 2, 31, 81, 12, 10
 size: .word 6

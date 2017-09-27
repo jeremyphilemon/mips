@@ -1,3 +1,5 @@
+# Find the sum of array[n].
+
 .data
     input_n: .asciiz "Enter n: "
     input_int: .asciiz "Enter integer: "
